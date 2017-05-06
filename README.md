@@ -28,6 +28,8 @@ Input = 6		Factorial = 1 x 2 x 3 x 4 x 5 x 6 = 720
 Input = 9		Factorial = 1 x 2 x 3 x 4 x 5 x 6 x 7 x 8 x 9 = 362880
 ```
 
-(3) Write a method *public static int max2(a,b)* that returns the value of the larger of the two arguments.
-
-(4) Write a method *public static int max3(a,b,c)* that returns the value of the largest of the three arguments.
+(3) Use method overloading to write several versions of a *max* method which:
+ * Takes 2 integers and returns the largest integer
+ * Takes 3 integers and returns the largest integer
+ * Takes 2 doubles and returns the largest double
+ * Takes 3 doubles and returns the largest double
