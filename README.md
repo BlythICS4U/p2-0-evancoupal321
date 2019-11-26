@@ -1,6 +1,6 @@
 # p2-0 Methods Practice
 
-(1) Write a program which uses two methods. One method, called getBabbage, returns the value of the Babbage Function, **y = x<sup>2</sup>+x + 41**. The other is called isPrime and returns type boolean. It returns true if the number sent to it is prime and false  if the number is composite. For x values ranging from 35 to 50, generate the following table:
+(1) Write a program which uses two methods. One method, called getBabbage, returns the value of the Babbage Function, **y = x<sup>2</sup>+ x + 41**. The other is called isPrime and returns type boolean. It returns true if the number sent to it is prime and false  if the number is composite. For x values ranging from 35 to 50, generate the following table:
 
 x|y|is y prime?
 ---|---|---
